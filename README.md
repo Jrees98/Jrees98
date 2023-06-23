@@ -7,7 +7,7 @@
   Python through Angela Yu's 100 days of Python Udemy course.
   Javascript through Angela Yu's Web Development Bootcamp as well as the Odin Project
 
--⛷️When I'm not coding or working I like to:
+- ⛷️When I'm not coding or working I like to:
   Ski, play video game (runescape), go on hikes, golf
 
 - 📫 How to reach me:
