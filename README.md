@@ -8,7 +8,7 @@
   Javascript through Angela Yu's Web Development Bootcamp as well as the Odin Project
 
 - ⛷️When I'm not coding or working I like to:
-  Ski, play video game (runescape), go on hikes, golf
+  Ski, go on hikes, and golf
 
 - 📫 How to reach me:
   Feel free to send me an email at reescodes@gmail.com
