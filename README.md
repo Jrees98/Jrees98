@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jacob!
-  I am 24 years old and a recent graduate from Brigham Young University. I graduated with a degree in Business Management and currently work in accounting.
+  I am 25 years old and a recent graduate from Brigham Young University. I graduated with a degree in Business Management and currently work in accounting.
   Over the last few months I have found a passion for programming and have decided that I would like to transition into this field. Ideally this would be
   sometime next summer. Nearly all my free time is used learning programming. I love the problem solving and constant learning that this field provides.
   
