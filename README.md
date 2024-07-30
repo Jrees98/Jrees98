@@ -1,3 +1,6 @@
+My most recent project: https://jreespuff.itch.io/voodoo-veins
+This was my first game jam and I had a blast. My wife helped me with a lot of the ideas and art. Was happy to be able to see this project through!
+
 - 👋 Hi, I’m Jacob!
   I am 25 years old and a recent graduate from Brigham Young University. I graduated with a degree in Business Management and currently work in accounting.
   Over the last few months I have found a passion for programming and have decided that I would like to transition into this field. Ideally this would be
